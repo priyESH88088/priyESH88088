@@ -31,5 +31,5 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (https://www.linkedin.com/in/priyesh-dwivedi-a1b2c3)
-* Email: (priyesh88088@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/priyesh-dwivedi-a1b2c3
+* Email: priyesh88088@gmail.com
