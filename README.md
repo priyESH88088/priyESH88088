@@ -46,10 +46,7 @@ A full-stack learning management system with authentication, course management, 
 
 ## 📌 Other Projects
 
-### 🛒 Shopping App
-- Product listing & filtering
-- Cart functionality
-- Responsive UI design
+🚧 More projects coming soon... currently focused on building full-stack MERN applications and improving system design skills.
 
 ---
 
